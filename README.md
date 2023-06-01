@@ -1,3 +1,3 @@
-# llm_debate
+# Website for Decision-Oriented Dialogue Paper
 
-https://composable-models.github.io/llm_debate/
+Link: https://collaborative-dialogue.github.io
